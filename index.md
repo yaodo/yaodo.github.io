@@ -5,14 +5,14 @@
 ### centos 
 1. [yum](centosyum.html)
 ### Router&Switch
-1. [cisco](cisco1.html)
-2. [H3C](h3c1.html)
-### database 
-1. [oracle11g2](oracle11g2.html)
+2. [cisco](cisco1.html)
+3. [H3C](h3c1.html)
+4. [GNS3](gns.html)
 ### debian 
-1. [debian install & config](debian1.html)
-2. [use git & github](gituse.html)
-
+5. [debian install & config](debian1.html)
+6. [use git & github](gituse.html)
+### database 
+7. [oracle11g2](oracle11g2.html)
 
 [Link](url) and 
 ![Image](./images/debian.png)
