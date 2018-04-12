@@ -1,6 +1,6 @@
 # just a test
 ### github is very simple&clean.It's a good place to save something useful.just like linux,router&switch.
-just for fun
+
 1. [debian install & config](debian1.html)
 2. [oracle11g2](oracle11g2.html)
 3. [centosyum](centosyum.html)
@@ -16,24 +16,9 @@ just for fun
 2. List
 
 **Bold** and _Italic_ and `Code` text
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-You can use the [editor on GitHub](https://github.com/yao-w/yao-w.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[Link](url) and 
-
-and
-![Image](./images/debian.png)
+[Link](url) and ![Image](./images/debian.png)
 
 
 ### Markdown
