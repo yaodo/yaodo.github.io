@@ -13,6 +13,7 @@ You can use the [editor on GitHub](https://github.com/yao-w/yao-w.github.io/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 [Link](url) and 
 ![Image](https://github.com/yaodo/yaodo.github.io/blob/master/images/debian.png)
+and
 ![Image](./debian.png)
 and
 ![Image](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=964026613,1747585859&fm=27&gp=0.jpg)
