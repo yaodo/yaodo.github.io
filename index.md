@@ -1,6 +1,7 @@
 ## just a test
 ### github is very simple&clean.It's a good place to save something useful.just like linux,router&switch.
 
+
 ### centos 
 1. [yum](centosyum.html)
 ### Router&Switch
@@ -11,14 +12,10 @@
 ### debian 
 1. [debian install & config](debian1.html)
 2. [use git & github](gituse.html)
+
+
 [Link](url) and 
 ![Image](./images/debian.png)
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -44,12 +41,4 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-
-
 ```
-### Support or Contact
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
