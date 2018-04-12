@@ -1,4 +1,4 @@
-## git&github.com使用指南
+## use git&github.com
 
 ### github.com
 1. github.com 注册github.com,建立主目录username.github.io
