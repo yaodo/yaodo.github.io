@@ -2,8 +2,9 @@
 ## I want  to find a place 
 ### github is very simple&clean 
 just for fun
-[oracle11g2](oracle11g2.html)
-[centosyum](centosyum.html)
+1. [debian install & config](debian1.html)
+2. [oracle11g2](oracle11g2.html)
+3. [centosyum](centosyum.html)
 ## Welcome to GitHub Pages
 # linux
 ## centosyum
