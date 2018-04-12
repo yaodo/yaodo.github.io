@@ -1,11 +1,11 @@
 # just a test
 ### github is very simple&clean.It's a good place to save something useful.just like linux,router&switch.
-### debian install
+### debian 
 1. [debian install & config](debian1.html)
 2. [use git & github](gituse.html)
-### centos install
+### centos 
 1. [centosyum](centosyum.html)
-### database install
+### database 
 1. [oracle11g2](oracle11g2.html)
 
 - Bulleted
