@@ -31,5 +31,7 @@ first,make a centos yum to install the centos 6.5 ，7.0    and so on
   gpgcheck=0" >/etc/yum.repos.d/instal.repo
 ```
 ## 5.OK
+```
   yum clean all
   yum list
+ ```
