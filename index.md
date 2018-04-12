@@ -15,8 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 and
 ![Image](./images/debian.png)
-and
-![Image](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=964026613,1747585859&fm=27&gp=0.jpg)
+
 
 ### Markdown
 
@@ -24,7 +23,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+# linux
+## centosyum
+### centos
 
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
 # Header 1
 ## Header 2
 ### Header 3
@@ -36,6 +45,18 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
 
 
 ```
