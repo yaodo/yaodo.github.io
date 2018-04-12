@@ -1,4 +1,4 @@
-## just a test
+## welcome
 ### github is very simple&clean.It's a good place to save something useful.just like linux,router&switch.
 
 
