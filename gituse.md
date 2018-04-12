@@ -1,9 +1,9 @@
 ## git&github.com使用指南
 
 ### github.com
-1. github.com 注册username.github.com,建立主目录username.github.io
+1. github.com 注册github.com,建立主目录username.github.io
 
-2. 启用web访问，打开username.github.com可以访问网页版
+2. 启用web访问，打开username.github.io可以访问网页版
 
 3. 根据注册用户名生成ssh公钥，添加到github.com settings.
 
