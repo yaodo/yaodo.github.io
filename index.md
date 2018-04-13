@@ -21,8 +21,9 @@ server control
 
 Router&Switch
 2. [cisco](cisco1.html)
-3. [H3C](h3c1.html)
-4. [GNS3](gns.html)
+3. [HUAWEI](huawei.html)
+4. [H3C](h3c1.html)
+5. [GNS3](gns.html)
 
 debian 
 5. [debian install & config](debian1.html)
