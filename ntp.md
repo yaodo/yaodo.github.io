@@ -7,6 +7,36 @@
    （当前时间是13:00嘛），现在被ntpdate修改为12:30，那么意味作10分钟后，又会执行一次任务，这就糟糕了，这个任务只能执行一次的嘛！！
    ntpdate时间同步的隐患，当然这个例子有些极端，但的确是有风险的。所以解决该问题的办法就是时间平滑更改，不会让一个时间点在一天内经历两次.
    一般先手动同步一次，开启ntpdate定时任务。
+运行效果,ntpstat默认未安装
+```
+yao@debian:~$ ntpq -p
+     remote           refid      st t when poll reach   delay   offset  jitter
+==============================================================================
+ 210.72.145.44   .XFAC.          16 u    - 1024    0    0.000    0.000   0.000
+*gus.buptnet.edu 10.3.8.150       5 u   63   64  377   41.436    4.008   2.507
+ LOCAL(0)        .LOCL.          10 l  833   64    0    0.000    0.000   0.000
+yao@debian:~$ ntpstat
+synchronised to NTP server (202.112.10.36) at stratum 6 
+   time correct to within 176 ms
+   polling server every 64 s
+yao@debian:~$ systemctl status ntp
+● ntp.service - LSB: Start NTP daemon
+   Loaded: loaded (/etc/init.d/ntp; generated; vendor preset: enabled)
+   Active: active (running) since Fri 2018-04-13 15:27:55 CST; 38min ago
+     Docs: man:systemd-sysv-generator(8)
+  Process: 4538 ExecStop=/etc/init.d/ntp stop (code=exited, status=0/SUCCESS)
+  Process: 4547 ExecStart=/etc/init.d/ntp start (code=exited, status=0/SUCCESS)
+    Tasks: 2 (limit: 19660)
+   CGroup: /system.slice/ntp.service
+           └─4559 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 117:121
+yao@debian:~$ sudo netstat -tlunp | grep ntp      
+udp        0      0 192.168.17.199:123      0.0.0.0:*                           4559/ntpd           
+udp        0      0 127.0.0.1:123           0.0.0.0:*                           4559/ntpd           
+udp        0      0 0.0.0.0:123             0.0.0.0:*                           4559/ntpd           
+udp6       0      0 fe80::20c:29ff:febf:123 :::*                                4559/ntpd           
+udp6       0      0 ::1:123                 :::*                                4559/ntpd           
+udp6       0      0 :::123                  :::*                                4559/ntpd           
+```
    
 2. ntp server端
   与上级时间服务器同步，作为下级时间客户端的服务器。
