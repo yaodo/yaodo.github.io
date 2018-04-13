@@ -7,6 +7,7 @@ centos
 2. [ntp](ntp.html)
 3. [iptables](iptables.html)
 4. [heartbeat&keepalived](ha.html)
+5. [binddns](dns.html)
 
 
 Router&Switch
