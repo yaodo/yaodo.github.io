@@ -3,7 +3,11 @@
 
 centos 
 
-1. [yum](centosyum.html)
+1. [yum vsftpd](centosyum.html)
+2. [ntp](ntp.html)
+3. [iptables](iptables.html)
+4. [heartbeat&keepalived](ha.html)
+
 
 Router&Switch
 2. [cisco](cisco1.html)
@@ -15,8 +19,12 @@ debian
 6. [use git & github](gituse.html)
 
 mysql database 
-7. [oracle11g2](oracle11g2.html)
+7. [mysql主从复制](mysql.html)
+8. [oracle11g2](oracle11g2.html)
 
+vpn
+1. [shadowsocks](ss.html)
+2. [openvpn](openvpn.html)
 [Link](url) and 
 ![Image](./images/debian.png)
 
