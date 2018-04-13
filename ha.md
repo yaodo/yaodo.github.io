@@ -1,5 +1,38 @@
 ## centos6.5+heartbeat-3.0.4
+  HeartBeat的心跳连接
+```
+[root@nodeb ha.d]# uname -a
+Linux nodeb 2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+[root@nodeb ha.d]# service heartbeat status
+heartbeat OK [pid 1293 et al] is running on nodeb [nodeb]...
+[root@nodeb ha.d]# ip addr
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 16436 qdisc noqueue state UNKNOWN 
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000
+    link/ether 00:0c:29:ba:48:1f brd ff:ff:ff:ff:ff:ff
+    inet 192.168.17.196/24 brd 192.168.17.255 scope global eth0
+    inet 192.168.17.200/24 brd 192.168.17.255 scope global secondary eth0
+    inet6 fe80::20c:29ff:feba:481f/64 scope link 
+       valid_lft forever preferred_lft forever
+3: eth1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP qlen 1000
+    link/ether 00:0c:29:ba:48:29 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.3/24 brd 192.168.1.255 scope global eth1
+    inet6 fe80::20c:29ff:feba:4829/64 scope link 
+       valid_lft forever preferred_lft forever
+[root@nodeb ha.d]# 
 
+```
+
+两台heartbeat主机之间通信的一些常用的可行的方法：
+
+1. 串行电缆，即所谓的串口（首选，缺点是距离不能太远）
+
+2. 一根以太网电缆两网卡直连（生产环境中常用的方式）
+
+3. 以太网电缆，通过交换机等网络设备连接（次选，原因是增加了故障点，不好排查故障，同时，线路不是专用的心跳线，容易受其他数据传输的影响，导致心跳报文发送问题） 
 ```
   yum install wget
   wget http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
