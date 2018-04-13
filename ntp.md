@@ -31,6 +31,7 @@ filegen clockstats file clockstats type day enable
 #pool 3.debian.pool.ntp.org iburst
 server 210.72.145.44 prefer
 server 202.112.10.36
+
 # Access control configuration; see /usr/share/doc/ntp-doc/html/accopt.html for
 # details.  The web page <http://support.ntp.org/bin/view/Support/AccessRestrictions>
 # might also be helpful.
@@ -41,15 +42,19 @@ server 202.112.10.36
 # By default, exchange time with everybody, but don't allow configuration.
 restrict -4 default kod notrap nomodify nopeer noquery limited
 restrict -6 default kod notrap nomodify nopeer noquery limited
+
 # Local users may interrogate the ntp server more closely.
 restrict 127.0.0.1
 restrict ::1
+
 # Needed for adding pool entries
 restrict source notrap nomodify noquery
+
 # Clients from this (example!) subnet have unlimited access, but only if
 # cryptographically authenticated.
 #restrict 192.168.123.0 mask 255.255.255.0 notrust
 restrict 192.168.17.0 mask 255.255.255.0 nomodify notrap
+
 # If you want to provide time to your local subnet, change the next line.
 # (Again, the address is an example only.)
 #broadcast 192.168.123.255
@@ -57,6 +62,7 @@ restrict 192.168.17.0 mask 255.255.255.0 nomodify notrap
 # next lines.  Please do this only if you trust everybody on the network!
 #disable auth
 #broadcastclient
+
 server 127.127.1.0
 fudge 127.127.1.0 stratum 10
 ```
