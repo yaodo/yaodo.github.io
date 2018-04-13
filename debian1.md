@@ -13,6 +13,7 @@
 6. 如果需要，改为中文界面
 在桌面上需要，服务器一般不怎么动这个。。
 编辑/etc/environment文件，添加以下内容
+```
 LANG=zh_CN.UTF-8
 LANGUAGE=zh_CN:zh
 LC_CTYPE="zh_CN.UTF-8"
@@ -28,7 +29,7 @@ LC_TELEPHONE="zh_CN.UTF-8"
 LC_MEASUREMENT="zh_CN.UTF-8"
 LC_IDENTIFICATION="zh_CN.UTF-8"
 LC_ALL=
-
+```
 
 然后将其导入当前终端：
 $ source /etc/environment
