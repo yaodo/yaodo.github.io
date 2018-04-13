@@ -3,12 +3,21 @@
 
 centos 
 
-1. [yum vsftpd](centosyum.html)
-2. [ntp](ntp.html)
-3. [iptables](iptables.html)
-4. [heartbeat&keepalived](ha.html)
-5. [binddns](dns.html)
+1. [shell](shell.html)
+2. [yum vsftpd](centosyum.html)
+3. [ntp](ntp.html)
+4. [iptables](iptables.html)
+5. [heartbeat&keepalived](ha.html)
+6. [binddns](dns.html)
 
+
+server control
+
+1. [ssh](ssh.html)
+2. [cobbler](cobbler.html)
+3. [fabric](fabric.html)
+4. [puppet](puppet.html)
+5. [ansible](ansible.html)
 
 Router&Switch
 2. [cisco](cisco1.html)
