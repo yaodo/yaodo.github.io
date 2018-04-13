@@ -11,7 +11,7 @@ centos
 6. [binddns](dns.html)
 
 
-server control
+remote control
 
 1. [ssh](ssh.html)
 2. [cobbler](cobbler.html)
