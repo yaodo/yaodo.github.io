@@ -1,4 +1,25 @@
 ## cisco config
+查看Cisco交换机端口mac
+```
+SW4#ping 10.1.1.5
+Sending 5, 100-byte ICMP Echoes to 10.1.1.5, timeout is 2 seconds:
+  < press Ctrl+C to break >
+!!!!!
+Success rate is 100 percent (5/5), round-trip min/avg/max = 1/1/1 ms.
+
+cisco#show arp complete
+Protocol  Address          Age(min)  Hardware        Type   Interface               
+Internet  10.1.1.5      0         00e2.6907.71cf  arpa   VLAN 10                
+Total number of complete entries: 1
+
+cisco#show mac-address-table
+Vlan        MAC Address          Type     Interface                      Time
+----------  -------------------- -------- ------------------------------ --------------------
+ 10        00e2.6907.71cf       DYNAMIC  GigabitEthernet 0/17           2018-4-13 17:15:38 
+cisco#
+
+```
+
 ```
    CISCO	   描述
    no	   取消、关闭当前设置
