@@ -10,9 +10,9 @@
    
 2. ntp server端
   与上级时间服务器同步，作为下级时间客户端的服务器。
+
 ```
 # /etc/ntp.conf, configuration for ntpd; see ntp.conf(5) for help
-
 driftfile /var/lib/ntp/ntp.drift
 
 # Enable this if you want statistics to be logged.
@@ -22,7 +22,6 @@ statistics loopstats peerstats clockstats
 filegen loopstats file loopstats type day enable
 filegen peerstats file peerstats type day enable
 filegen clockstats file clockstats type day enable
-
 
 # You do need to talk to an NTP server or two (or three).
 #server ntp.your-provider.example
@@ -73,5 +72,6 @@ server 127.127.1.0
 fudge 127.127.1.0 stratum 10
 
 ```
+
 3. ntp client端
   与指定的服务器同步。
