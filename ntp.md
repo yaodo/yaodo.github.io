@@ -66,6 +66,21 @@ restrict 192.168.17.0 mask 255.255.255.0 nomodify notrap
 server 127.127.1.0
 fudge 127.127.1.0 stratum 10
 ```
-
 3. ntp client端
   与指定的服务器同步。
+```
+一键更换到上海时区
+echo "y" |cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
+apt-get install -y ntpdate;ntpdate cn.pool.ntp.org
+date
+```
+执行以下命令即可开始同步：
+```
+$ sudo ntpdate a.b.c.d
+```
+ sudo crontab -e
+
+在最后面添加
+```
+*/10 * * * * /usr/sbin/ntpdate time.windows.com
+```
