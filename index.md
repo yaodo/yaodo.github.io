@@ -34,11 +34,12 @@ Network Monitor
 Network Router&Switch
 
 1. [cisco](cisco1.html)
-2. [HUAWEI]([ssh](ssh.html).html)
-3. [H3C](h3c1.html)
-4. [GNS3](gns.html)
+2. [Jupiter](jupiter.html)
+3. [HUAWEI](huawei.html)
+4. [H3C](h3c1.html)
+5. [GNS3](gns.html)
 
-HA mysql database 
+HA 
 
 1. [mysql主从复制](mysql.html)
 2. [oracle11g2](oracle11g2.html)
