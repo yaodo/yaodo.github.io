@@ -1,4 +1,4 @@
-## welcome,note for test!
+## welcome,note or tips!
 github is very simple&clean.It's a good place to save something useful.just like linux,router&switch.
 
 centos 6&7
