@@ -1,7 +1,7 @@
 ## welcome
 github is very simple&clean.It's a good place to save something useful.just like linux,router&switch.
 
-centos 
+centos 6&7
 
 1. [shell](shell.html)
 2. [yum vsftpd](centosyum.html)
@@ -10,6 +10,7 @@ centos
 5. [heartbeat&keepalived](ha.html)
 6. [tcpdump](tcpdump.html)
 7. [binddns](dns.html)
+8. [centos7firewalld](firewalld.html)
 
 debian 
 
