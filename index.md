@@ -9,32 +9,40 @@ centos
 5. [heartbeat&keepalived](ha.html)
 6. [tcpdump](tcpdump.html)
 7. [binddns](dns.html)
+
 debian 
 1. [debian install & config](debian1.html)
 2. [use git & github](gituse.html)
+
 operation remote control
 1. [ssh](ssh.html)
 2. [cobbler](cobbler.html)
 3. [fabric](fabric.html)
 4. [puppet](puppet.html)
 5. [ansible](ansible.html)
+
 Network Monitor
 1. [nagios](nagios.html)
 2. [zabbix](zabbix.html)
 3. [elk](elk.html)
+
 Network Router&Switch
 1. [cisco](cisco1.html)
 2. [HUAWEI]([ssh](ssh.html).html)
 3. [H3C](h3c1.html)
 4. [GNS3](gns.html)
+
 HA mysql database 
 1. [mysql主从复制](mysql.html)
 2. [oracle11g2](oracle11g2.html)
+
 Cloud
 1. [openstack](openstack.html)
 2. [kubernetes](k8.html)
 3. [ceph](ceph.html)
+
 vpn
+
 1. [shadowsocks](ss.html)
 2. [openvpn](openvpn.html)
 [Link](url) and 
