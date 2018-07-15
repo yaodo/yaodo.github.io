@@ -12,8 +12,8 @@ centos 6&7
 7. [binddns](dns.html)
 8. [centos7firewalld](firewalld.html)
 
-windows(windows.html)  
-vmware(vmware.html)
+[windows](windows.html)  
+[vmware](vmware.html)
 
 debian 
 
