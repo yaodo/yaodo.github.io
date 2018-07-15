@@ -8,6 +8,7 @@ ifconfig eth0 |grep -o "inet addr:[^ ]*" Igrep -o "[0-9.]*"
 ```
 
 crontab -e
+```
 crontab -l
 * * * * * ntpdate 1.1.1.1;&& hwclock -w;
-
+```
