@@ -1,6 +1,6 @@
 ## debian9.4 ntp同步
 1. NTP时间同步方式选择
-
+```
    NTP同步方式在linux下一般两种：使用ntpdate命令直接同步和使用NTPD服务平滑同步。有什么区别?
    现有一台设备，系统时间是 13:00 , 真实的当前时间是: 12:30  。如果我们使用ntpdate同步（ntpdate -u 目标NTP服务器IP），
    操作系统的时间立即更新为12:30,假如，我们的系统有一个定时应用，是在每天12:40运行，那么实际今天这个的任务已经运行过了
@@ -8,6 +8,7 @@
    ntpdate时间同步的隐患，当然这个例子有些极端，但的确是有风险的。所以解决该问题的办法就是时间平滑更改，不会让一个时间点在一天内经历两次.
    一般先手动同步一次，开启ntpdate定时任务。
 运行效果,ntpstat默认未安装
+```
 ```
 yao@debian:~$ ntpq -p
      remote           refid      st t when poll reach   delay   offset  jitter
