@@ -1,7 +1,11 @@
 ## note or tips,HI!
 github is simple&clean,to save something useful.just like linux,router&switch.
+Bigdata Cloud
 
-centos 6&7
+1. [kubernetes conjure-up](conjure-up.html)
+2. [opencloud](opencloud.html)
+
+centos 6&7 
 
 1. [shell](shell.html)
 2. [yum vsftpd](centosyum.html)
@@ -15,6 +19,10 @@ centos 6&7
 [windows](windows.html)  
 [vmware](vmware.html)
 
+Hardware
+
+1. [uefi&logacy](uefi.html)
+2. [ipmi](ipmi.html)
 debian 
 
 1. [debian install & config](debian1.html)
@@ -41,6 +49,7 @@ Network Router&Switch
 3. [HUAWEI](huawei.html)
 4. [H3C](h3c1.html)
 5. [GNS3](gns.html)
+6. [asa9k](asa9K.html)
 
 HA 
 
