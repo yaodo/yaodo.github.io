@@ -1,3 +1,6 @@
+![Image](./images/ciscoh3c1.png)
+![Image](./images/ciscoh3c2.png)
+
 ## cisco config
 查看Cisco交换机端口mac
 ```
