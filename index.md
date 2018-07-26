@@ -1,11 +1,13 @@
-## note or tips,HI!
+## Linux Servers,Network,Cloud Computering,HI!
 github is simple&clean,to save something useful.just like linux,router&switch.
 Bigdata Cloud
 
 1. [kubernetes conjure-up](conjure-up.html)
 2. [opencloud](opencloud.html)
+3. [hadoop](hadoop.html)
+4. [ceph](ceph.html)
 
-centos 6&7 
+Linux servers centos6&7
 
 1. [shell](shell.html)
 2. [yum vsftpd](centosyum.html)
@@ -57,11 +59,6 @@ HA
 2. [oracle11g2](oracle11g2.html)
 3. [keepalived](keepalived.html)
 
-Cloud
-
-1. [openstack](openstack.html)
-2. [kubernetes](k8.html)
-3. [ceph](ceph.html)
 
 vpn
 
