@@ -1,5 +1,6 @@
 ## Linux Servers,Network,Cloud Computering,Hello!
 github is simple&clean,to save something useful.just like linux,router&switch.
+
 Bigdata Cloud
 
 1. [kubernetes conjure-up](conjure-up.html)
@@ -13,24 +14,20 @@ Linux servers centos6&7
 2. [yum vsftpd](centosyum.html)
 3. [ntp](ntp.html)
 4. [iptables](iptables.html)  [iptables1](iptables1.html)
-5. [heartbeat&keepalived](ha.html)
+5. [centos7firewalld](firewalld.html)
 6. [tcpdump](tcpdump.html)
 7. [binddns](dns.html)
-8. [centos7firewalld](firewalld.html)
 
-[windows](windows.html)  
-[vmware](vmware.html)
 
-Hardware
+HA 
 
-1. [uefi&logacy](uefi.html)
-2. [ipmi](ipmi.html)
-debian 
+1. [mysql主从复制](mysql.html)
+2. [nginx](nginx.html)
+3. [oracle11g2](oracle11g2.html)
+4. [keepalived](keepalived.html)
+5. [heartbeat&keepalived](ha.html)
 
-1. [debian install & config](debian1.html)
-2. [use git & github](gituse.html)
-
-operation remote control
+Operation remote control
 
 1. [ssh](ssh.html)
 2. [cobbler](cobbler.html)
@@ -44,6 +41,14 @@ Network Monitor
 2. [zabbix](zabbix.html)
 3. [elk](elk.html)
 
+[windows](windows.html)  
+[vmware](vmware.html)
+
+Hardware
+
+1. [uefi&logacy](uefi.html)
+2. [ipmi](ipmi.html)
+
 Network Router&Switch
 
 1. [cisco](cisco1.html)
@@ -53,17 +58,16 @@ Network Router&Switch
 5. [GNS3](gns.html)
 6. [asa9k](asa9K.html)
 
-HA 
-
-1. [mysql主从复制](mysql.html)
-2. [oracle11g2](oracle11g2.html)
-3. [keepalived](keepalived.html)
-
-
 vpn
 
 1. [shadowsocks](ss.html)
 2. [openvpn](openvpn.html)
+
+debian 
+
+1. [debian install & config](debian1.html)
+2. [use git & github](gituse.html)
+
 [Link](url) and 
 ![Image](./images/debian.png)
 
