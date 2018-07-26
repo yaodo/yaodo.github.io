@@ -1,4 +1,4 @@
-## Linux Servers,Network,Cloud Computering,Hello!
+## Servers,Network,Cloud Computering,Hello!
 github is simple&clean,to save something useful.just like linux,router&switch.
 
 Bigdata Cloud
