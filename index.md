@@ -9,9 +9,21 @@ Bigdata Cloud
 4. [ceph](ceph.html)
  
 SystemTroubleshooting
+
 1. [tcpdump](tcpdump.html)
 2. [nettools](nettools.html)
 3. [wiresharks](wiresharks.html)
+
+Commands
+```
+[root@host1 ~]# netstat -antlp
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address               Foreign Address             State       PID/Program name   
+tcp        0      0 0.0.0.0:111                 0.0.0.0:*                   LISTEN      1336/rpcbind        
+tcp        0      0 127.0.0.1:8307              0.0.0.0:*                   LISTEN      1983/vmware-hostd   
+tcp        0      0 0.0.0.0:21                  0.0.0.0:*                   LISTEN      1994/vsftpd         
+tcp        0      0 0.0.0.0:22                  0.0.0.0:*                   LISTEN      1819/sshd           
+```
 
 Linux servers System centos6&7
 
