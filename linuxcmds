@@ -1,0 +1,72 @@
+# lsof
+```
+找到使用某个端口的进程
+
+# lsof -i :25
+
+:25和-i选项组合可以让lsof列出占用TCP或UDP的25端口的进程。
+
+也可以使用/etc/services中制定的端口名称来代替端口号，比如：
+
+# lsof -i :smtp
+
+找到使用某个udp端口号的进程
+
+# lsof -i udp:53
+
+同样的，也可以找到使用某个tcp端口的进程：
+
+# lsof -i tcp:80
+
+找到某个用户的所有网络连接
+
+# lsof -a -u hacker -i
+
+使用-a将-u和-i选项组合可以让lsof列出某个用户的所有网络行为。
+
+列出所有NFS（网络文件系统）文件
+
+# lsof -N
+
+这个参数很好记，-N就对应NFS。
+
+列出所有UNIX域Socket文件
+
+# lsof -U
+
+这个选项也很好记，-U就对应UNIX。
+
+列出所有对应某个组id的进程
+
+# lsof -g 1234
+
+```
+
+    循环列出文件
+
+# lsof -r 1
+
+-r选项让lsof可以循环列出文件直到被中断，参数1的意思是每秒钟重复打印一次，这个选项最好同某个范围比较小的查询组合使用，比如用来监测网络活动：
+
+# lsof -r 1 -u john -i -a
+```
+[root@host1 ~]#  lsof -r 5 -u root -i -a
+COMMAND    PID USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+vmware-au 1553 root    8u  IPv4  13013      0t0  TCP *:ideafarm-door (LISTEN)
+dhclient  1617 root    6u  IPv4  13429      0t0  UDP *:bootpc 
+cupsd     1620 root    6u  IPv6  13440      0t0  TCP localhost:ipp (LISTEN)
+cupsd     1620 root    7u  IPv4  13441      0t0  TCP localhost:ipp (LISTEN)
+cupsd     1620 root    9u  IPv4  13444      0t0  UDP *:ipp 
+sshd      1819 root    3u  IPv4  14121      0t0  TCP *:ssh (LISTEN)
+sshd      1819 root    4u  IPv6  14125      0t0  TCP *:ssh (LISTEN)
+hostd-wor 1983 root   30u  IPv4  15636      0t0  TCP *:https (LISTEN)
+hostd-wor 1983 root   32u  IPv6  15637      0t0  TCP *:https (LISTEN)
+hostd-wor 1983 root   37u  IPv6  15643      0t0  TCP localhost:8307 (LISTEN)
+hostd-wor 1983 root   38u  IPv4  15644      0t0  TCP localhost:8307 (LISTEN)
+vsftpd    1994 root    3u  IPv4  14367      0t0  TCP *:ftp (LISTEN)
+master    2079 root   12u  IPv4  14606      0t0  TCP localhost:smtp (LISTEN)
+master    2079 root   13u  IPv6  14608      0t0  TCP localhost:smtp (LISTEN)
+clock-app 2570 root   21u  IPv4  24115      0t0  TCP 192.168.17.201:42085->61.131.208.210:http (CLOSE_WAIT)
+sshd      2735 root    3r  IPv4  20108      0t0  TCP 192.168.17.201:ssh->192.168.17.1:53867 (ESTABLISHED)
+
+```
