@@ -1,3 +1,4 @@
+### update centos6.8 to new version openssl1.0.2t openssh8.1p 
 ```bash
 #
 yum -y install gcc pam-devel zlib-devel openssl-devel
