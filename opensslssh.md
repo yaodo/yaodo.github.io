@@ -1,4 +1,4 @@
-'''bash
+```bash
 #
 yum -y install gcc pam-devel zlib-devel openssl-devel
 
@@ -36,4 +36,4 @@ history
 history | sed 's/^[ ]*[0-9]\+[ ]*//'
 
 
-'''
+```
