@@ -1,12 +1,7 @@
 ## Cloud Note,Hello!
 github is simple&clean,to save something useful.just like linux,router&switch.
 
-Bigdata Cloud
 
-1. [kubernetes conjure-up](conjure-up.html)
-2. [openstack](openstack.html)
-3. [hadoop](hadoop.html)
-4. [ceph](ceph.html)
  
 SystemTroubleshooting
 
@@ -23,6 +18,22 @@ Linux servers System centos6&7
 5. [centos7firewalld](firewalld.html)
 6. [binddns](dns.html)
 7. [opensslopenssh8](opensslssh.html)
+
+Network Router&Switch
+
+1. [cisco](cisco1.html)
+2. [Jupiter](jupiter.html)
+3. [HUAWEI](huawei.html)
+4. [H3C](h3c1.html)
+5. [GNS3](gns.html)
+6. [asa9k](asa9K.html)
+
+Bigdata Cloud
+
+1. [kubernetes conjure-up](conjure-up.html)
+2. [openstack](openstack.html)
+3. [hadoop](hadoop.html)
+4. [ceph](ceph.html)
 
 HA webserver Database Balance
 
@@ -59,14 +70,6 @@ Hardware
 1. [uefi&logacy](uefi.html)
 2. [ipmi](ipmi.html)
 
-Network Router&Switch
-
-1. [cisco](cisco1.html)
-2. [Jupiter](jupiter.html)
-3. [HUAWEI](huawei.html)
-4. [H3C](h3c1.html)
-5. [GNS3](gns.html)
-6. [asa9k](asa9K.html)
 
 vpn
 
@@ -93,47 +96,7 @@ tcp        0      0 0.0.0.0:22                  0.0.0.0:*                   LIST
 ```
 
 ```
-[root@host1 ~]# ethtool eth0
-Settings for eth0:
-	Supported ports: [ TP ]
-	Supported link modes:   10baseT/Half 10baseT/Full 
-	                        100baseT/Half 100baseT/Full 
-	                        1000baseT/Full 
-	Supported pause frame use: No
-	Supports auto-negotiation: Yes
-	Advertised link modes:  10baseT/Half 10baseT/Full 
-	                        100baseT/Half 100baseT/Full 
-	                        1000baseT/Full 
-	Advertised pause frame use: No
-	Advertised auto-negotiation: Yes
-	Speed: 1000Mb/s
-	Duplex: Full
-	Port: Twisted Pair
-	PHYAD: 0
-	Transceiver: internal
-	Auto-negotiation: on
-	MDI-X: Unknown
-	Supports Wake-on: d
-	Wake-on: d
-	Current message level: 0x00000007 (7)
-			       drv probe link
-	Link detected: yes
 
 ```
 
-**Bold** and _Italic_ and `Code` text
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-```markdown
-Syntax highlighted code block
-# Header 1
-## Header 2
-### Header 3
-- Bulleted
-- List
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
 ```
