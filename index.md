@@ -26,7 +26,6 @@ Network Router&Switch
 3. [HUAWEI](huawei.html)
 4. [H3C](h3c1.html)
 5. [GNS3](gns.html)
-6. [asa9k](asa9K.html)
 
 Bigdata Cloud
 
@@ -93,10 +92,6 @@ tcp        0      0 0.0.0.0:111                 0.0.0.0:*                   LIST
 tcp        0      0 127.0.0.1:8307              0.0.0.0:*                   LISTEN      1983/vmware-hostd   
 tcp        0      0 0.0.0.0:21                  0.0.0.0:*                   LISTEN      1994/vsftpd         
 tcp        0      0 0.0.0.0:22                  0.0.0.0:*                   LISTEN      1819/sshd           
-```
-
-```
-
 ```
 
 ```
