@@ -3,11 +3,7 @@ github is simple&clean,to save something useful.just like linux,router&switch.
 
 
  
-SystemTroubleshooting
 
-1. [tcpdump](tcpdump.html)
-2. [nettools](nettools.html)
-3. [wiresharks](wiresharks.html)
 
 Linux servers System centos6&7
 
@@ -26,6 +22,12 @@ Network Router&Switch
 3. [HUAWEI](huawei.html)
 4. [H3C](h3c1.html)
 5. [GNS3](gns.html)
+
+SystemTroubleshooting
+
+1. [tcpdump](tcpdump.html)
+2. [nettools](nettools.html)
+3. [wiresharks](wiresharks.html)
 
 Bigdata Cloud
 
