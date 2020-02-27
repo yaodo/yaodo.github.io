@@ -1,7 +1,7 @@
 ## Cloud Note,Hello!
 github is simple&clean,to save something useful.just like linux,router&switch.
-
-Linux servers System centos
+:smile:
+Linux  centos
 
 1. [shell](shell.html)
 2. [yum vsftpd](centosyum.html)
