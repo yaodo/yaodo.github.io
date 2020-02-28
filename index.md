@@ -1,7 +1,7 @@
 
-### Cloud Note,Hello!
+### Cloud Note,Hi!
 
-#github is simple&clean,to save something useful.just like linux,router&switch.
+#github is simple&clean,to save something useful.just like linux,rs.
 
 
 
