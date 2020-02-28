@@ -9,7 +9,7 @@
 ### linux  centos
 
 1. [shell](shell.html)
-2. [yum vsftpd](centosyum.html)
+2. [vsftpd](centosyum.html)
 3. [ntp](ntp.html)
 4. [iptables](iptables.html)  [iptables1](iptables1.html)
 5. [centos7firewalld](firewalld.html)
