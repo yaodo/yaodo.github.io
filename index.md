@@ -38,7 +38,7 @@
 2. [zabbix](zabbix.html)
 3. [elk](elk.html)
 
-### Cloud
+### Cloud docker
 
 1. [kubernetes conjure-up](conjure-up.html)
 2. [microk8s](microk8s.html)
