@@ -1,10 +1,9 @@
 
 ### Cloud Note,Hello!
+
 #github is simple&clean,to save something useful.just like linux,router&switch.
 
 
-
-:smile:
 
 ### linux  centos
 
@@ -26,11 +25,6 @@
 4. [H3C](h3c1.html)
 5. [GNS3](gns.html)
 
-### terminal troubleshooting
-
-1. [tcpdump](tcpdump.html)
-2. [nettools](nettools.html)
-3. [wiresharks](wiresharks.html)
 
 ### Network Monitor
 
@@ -66,6 +60,12 @@
 3. [fabric](fabric.html)
 4. [puppet](puppet.html)
 5. [ansible](ansible.html)
+
+### terminal troubleshooting
+
+1. [tcpdump](tcpdump.html)
+2. [nettools](nettools.html)
+3. [wiresharks](wiresharks.html)
 
 [windows](windows.html)  
 [vmware](vmware.html)
