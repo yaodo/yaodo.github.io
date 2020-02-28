@@ -6,7 +6,7 @@
 
 :smile:
 
-### Linux  centos
+### linux  centos
 
 1. [shell](shell.html)
 2. [yum vsftpd](centosyum.html)
