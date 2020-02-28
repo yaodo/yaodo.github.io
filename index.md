@@ -6,7 +6,7 @@
 
 :smile:
 
-###Linux  centos
+### Linux  centos
 
 1. [shell](shell.html)
 2. [yum vsftpd](centosyum.html)
@@ -18,7 +18,7 @@
 8. [debian install & config](debian1.html)
 9. [use git & github](gituse.html)
 
-###Network Router&Switch
+### Network Router&Switch
 
 1. [cisco](cisco1.html)
 2. [Jupiter](jupiter.html)
@@ -26,19 +26,19 @@
 4. [H3C](h3c1.html)
 5. [GNS3](gns.html)
 
-###terminal roubleshooting
+### terminal troubleshooting
 
 1. [tcpdump](tcpdump.html)
 2. [nettools](nettools.html)
 3. [wiresharks](wiresharks.html)
 
-###Network Monitor
+### Network Monitor
 
 1. [nagios](nagios.html)
 2. [zabbix](zabbix.html)
 3. [elk](elk.html)
 
-###Cloud
+### Cloud
 
 1. [kubernetes conjure-up](conjure-up.html)
 2. [microk8s](microk8s.html)
@@ -46,7 +46,7 @@
 4. [hadoop](hadoop.html)
 5. [ceph](ceph.html)
 
-###HA webserver Database Balance
+### HA server Balance
 
 1. [mysql Master&Slave](mysql.html)
 2. [nginx](nginx.html)
@@ -55,11 +55,11 @@
 5. [keepalived](keepalived.html)
 6. [heartbeat&keepalived](ha.html)
 
-###Programming language
+### Programming language
 
 1. [JavaEclipse](java.html)
 
-###Operation remote control
+### Operation remote control
 
 1. [ssh](ssh.html)
 2. [cobbler](cobbler.html)
