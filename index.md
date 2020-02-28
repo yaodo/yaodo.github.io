@@ -1,4 +1,3 @@
-[TOC]
 
 ## Cloud Note,Hello!
 #github is simple&clean,to save something useful.just like linux,router&switch.
