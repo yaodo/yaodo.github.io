@@ -26,7 +26,9 @@
 
 6. 如在本地文件夹mywork下修改或删除a.md
 
-   git add a.md   
+   git add a.md  
+
+   git add . 
    
    git  commit -m "txt"   
    
