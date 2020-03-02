@@ -10,61 +10,65 @@
 
 ### linux  centos
 
-|:-    |:-    |:-    |:-    |:-    |
-|[shell](shell.html)|[vsftpd](centosyum.html)|[ntp](ntp.html)|[iptables](iptables.html) |[iptables1](iptables1.html)|
-|[binddns](dns.html)|[opensslopenssh8](opensslssh.html)|[debian install & config](debian1.html)|[use git & github](gituse.html)|[centos7firewalld](firewalld.html)|
+|:-    |:-    |:-    |:-    |
+|[shell](shell.html)|[vsftpd](centosyum.html)|[ntp](ntp.html)|[iptables](iptables.html)|
+|[iptables1](iptables1.html)|[binddns](dns.html)|[opensslopenssh8](opensslssh.html)|[debian install & config](debian1.html)|
+|[use git & github](gituse.html)|[centos7firewalld](firewalld.html)|||
 
 
 
 ### Network Router&Switch
 
-|:-    |:-    |:-    |:-    |:-    |
-|[cisco](cisco1.html)|[Jupiter](jupiter.html)|[HUAWEI](huawei.html)|[H3C](h3c1.html)|[GNS3](gns.html)|
+|:-    |:-    |:-    |:-    |
+|[cisco](cisco1.html)|[Jupiter](jupiter.html)|[HUAWEI](huawei.html)|[H3C](h3c1.html)|
+|[GNS3](gns.html)||||
 
 
 ### Network Monitor
 
-|:-    |:-    |:-    |:-    |:-    |
-|[nagios](nagios.html)|[zabbix](zabbix.html)|[elk](elk.html)|||
+|:-    |:-    |:-    |:-    |
+|[nagios](nagios.html)|[zabbix](zabbix.html)|[elk](elk.html)||
 
 ### Cloud docker
 
-|:-    |:-    |:-    |:-    |:-    |
-|[kubernetes conjure-up](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|[ceph](ceph.html)|
+|:-    |:-    |:-    |:-    |
+|[kubernetes conjure-up](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
+|[ceph](ceph.html)||||
 
 ### HA server Balance
 
-|:-    |:-    |:-    |:-    |:-    |
-|[mysql Master&Slave](mysql.html)|[nginx](nginx.html)|[Tomacat](tomcat.html)| [oracle11g2](oracle11g2.html)|[keepalived](keepalived.html)|
-|[heartbeat&keepalived](ha.html)|
+|:-    |:-    |:-    |:-    |
+|[mysql Master&Slave](mysql.html)|[nginx](nginx.html)|[Tomacat](tomcat.html)| [oracle11g2](oracle11g2.html)|
+|[keepalived](keepalived.html)|[heartbeat&keepalived](ha.html)|||
 
 ### Programming language
 
-|:-    |:-    |:-    |:-    |:-    |
-|[JavaEclipse](java.html)|
+|:-    |:-    |:-    |:-    |
+|[JavaEclipse](java.html)||||
 
 ### Operation remote control
 
-|:-    |:-    |:-    |:-    |:-    |
-|[ssh](ssh.html)|[cobbler](cobbler.html)|[fabric](fabric.html)|[puppet](puppet.html)|[ansible](ansible.html)|
+|:-    |:-    |:-    |:-    |
+|[ssh](ssh.html)|[cobbler](cobbler.html)|[fabric](fabric.html)|[puppet](puppet.html)|
+|[ansible](ansible.html)||||
 
 ### terminal troubleshooting
 
-|:-    |:-    |:-    |:-    |:-    |
-|[tcpdump](tcpdump.html)|[nettools](nettools.html)|[wiresharks](wiresharks.html)|||
+|:-    |:-    |:-    |:-    |
+|[tcpdump](tcpdump.html)|[nettools](nettools.html)|[wiresharks](wiresharks.html)||
 
 [windows](windows.html)  
 [vmware](vmware.html)
 
 ###Hardware
 
-|:-    |:-    |:-    |:-    |:-    |
-|[uefi&logacy](uefi.html)|[ipmi](ipmi.html)||||
+|:-    |:-    |:-    |:-    |
+|[uefi&logacy](uefi.html)|[ipmi](ipmi.html)|||
 
 ###vpn
 
-|:-    |:-    |:-    |:-    |:-    |
-|[shadowsocks](ss.html)|[openvpn](openvpn.html)||||
+|:-    |:-    |:-    |:-    |
+|[shadowsocks](ss.html)|[openvpn](openvpn.html)|||
 
 
 [Link](url) and 
