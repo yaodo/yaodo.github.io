@@ -10,6 +10,8 @@
 
 ### linux  centos
 
+|左对齐|居中对齐|右对齐|
+|1|2|3|
 1. [shell](shell.html)
 2. [vsftpd](centosyum.html)
 3. [ntp](ntp.html)
