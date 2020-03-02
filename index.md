@@ -10,7 +10,7 @@
 
 ### linux  centos
 
-|:-|:-|:-|:-|:-|
+|:-    |:-    |:-    |:-    |:-    |
 |[shell](shell.html)|[vsftpd](centosyum.html)|[ntp](ntp.html)|[iptables](iptables.html) |[iptables1](iptables1.html)||
 |[binddns](dns.html)|[opensslopenssh8](opensslssh.html)|[debian install & config](debian1.html)|[use git & github](gituse.html)|[centos7firewalld](firewalld.html)|
 
