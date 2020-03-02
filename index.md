@@ -16,8 +16,8 @@
 ### Network Router&Switch
 
 |:-    |:-    |:-    |:-    |
-|[cisco](cisco1.html)|[Jupiter](jupiter.html)|[HUAWEI](huawei.html)|[H3C](h3c1.html)|
-|[GNS3](gns.html)||||
+|[cisco](cisco1.html)|[jupiter](jupiter.html)|[huawei](huawei.html)|[h3c](h3c1.html)|
+|[gns3](gns.html)||||
 
 
 ### Network Monitor
