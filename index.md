@@ -34,8 +34,8 @@
 ### HA server Balance
 
 |:-    |:-    |:-    |:-    |
-|[mysql Master&Slave](mysql.html)|[nginx](nginx.html)|[Tomacat](tomcat.html)| [oracle11g2](oracle11g2.html)|
-|[keepalived](keepalived.html)|[heartbeat&keepalived](ha.html)|||
+|[mysql MS](mysql.html)|[nginx](nginx.html)|[Tomacat](tomcat.html)| [oracle11g2](oracle11g2.html)|
+|[keepalived](keepalived.html)|[hb&ka](ha.html)|||
 
 ### Programming language
 
