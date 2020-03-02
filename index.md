@@ -10,19 +10,11 @@
 
 ### linux  centos
 
-|左对齐|居中对齐|右对齐|
-|:-    |:------:|-:|
-|1|2|3|
+|:-|:-|:-|:-|:-|
+|[shell](shell.html)|[vsftpd](centosyum.html)|[ntp](ntp.html)|[iptables](iptables.html) |[iptables1](iptables1.html)||
+|[binddns](dns.html)|[opensslopenssh8](opensslssh.html)|[debian install & config](debian1.html)|[use git & github](gituse.html)|[centos7firewalld](firewalld.html)|
 
-1. [shell](shell.html)
-2. [vsftpd](centosyum.html)
-3. [ntp](ntp.html)
-4. [iptables](iptables.html)  [iptables1](iptables1.html)
-5. [centos7firewalld](firewalld.html)
-6. [binddns](dns.html)
-7. [opensslopenssh8](opensslssh.html) 
-8. [debian install & config](debian1.html)
-9. [use git & github](gituse.html)
+
 
 ### Network Router&Switch
 
