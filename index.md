@@ -9,7 +9,7 @@
 |:-    |:-    |:-    |:-    |
 |[shell](shell.html)|[vsftpd](centosyum.html)|[ntp](ntp.html)|[iptables](iptables.html)|
 |[iptables1](iptables1.html)|[binddns](dns.html)|[openssl8](opensslssh.html)|[debian](debian1.html)|
-|[git & github](gituse.html)|[7firewalld](firewalld.html)|||
+|[git hub](gituse.html)|[7firewalld](firewalld.html)|||
 
 
 
@@ -28,7 +28,7 @@
 ### Cloud docker
 
 |:-    |:-    |:-    |:-    |
-|[k8sconjure-up](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
+|[k8scon](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
 |[ceph](ceph.html)||||
 
 ### HA server Balance
@@ -59,7 +59,7 @@
 ###Hardware
 
 |:-    |:-    |:-    |:-    |
-|[uefi&logacy](uefi.html)|[ipmi](ipmi.html)|||
+|[uefilegacy](uefi.html)|[ipmi](ipmi.html)|||
 
 ###vpn
 
