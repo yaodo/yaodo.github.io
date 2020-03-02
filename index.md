@@ -68,7 +68,10 @@
 
 
 [Link](url) and 
-![Image](./images/debian.png)
+
+```
+    ![Image](./images/debian.png)
+```
 
 Commands
 
