@@ -18,66 +18,53 @@
 
 ### Network Router&Switch
 
-1. [cisco](cisco1.html)
-2. [Jupiter](jupiter.html)
-3. [HUAWEI](huawei.html)
-4. [H3C](h3c1.html)
-5. [GNS3](gns.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[cisco](cisco1.html)|[Jupiter](jupiter.html)|[HUAWEI](huawei.html)|[H3C](h3c1.html)|[GNS3](gns.html)|
 
 
 ### Network Monitor
 
-1. [nagios](nagios.html)
-2. [zabbix](zabbix.html)
-3. [elk](elk.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[nagios](nagios.html)|[zabbix](zabbix.html)|[elk](elk.html)|||
 
 ### Cloud docker
 
-1. [kubernetes conjure-up](conjure-up.html)
-2. [microk8s](microk8s.html)
-3. [openstack](openstack.html)
-4. [hadoop](hadoop.html)
-5. [ceph](ceph.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[kubernetes conjure-up](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|[ceph](ceph.html)|
 
 ### HA server Balance
 
-1. [mysql Master&Slave](mysql.html)
-2. [nginx](nginx.html)
-3. [Tomacat](tomcat.html)
-4. [oracle11g2](oracle11g2.html)
-5. [keepalived](keepalived.html)
-6. [heartbeat&keepalived](ha.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[mysql Master&Slave](mysql.html)|[nginx](nginx.html)|[Tomacat](tomcat.html)| [oracle11g2](oracle11g2.html)|[keepalived](keepalived.html)|
+|[heartbeat&keepalived](ha.html)|
 
 ### Programming language
 
-1. [JavaEclipse](java.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[JavaEclipse](java.html)|
 
 ### Operation remote control
 
-1. [ssh](ssh.html)
-2. [cobbler](cobbler.html)
-3. [fabric](fabric.html)
-4. [puppet](puppet.html)
-5. [ansible](ansible.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[ssh](ssh.html)|[cobbler](cobbler.html)|[fabric](fabric.html)|[puppet](puppet.html)|[ansible](ansible.html)|
 
 ### terminal troubleshooting
 
-1. [tcpdump](tcpdump.html)
-2. [nettools](nettools.html)
-3. [wiresharks](wiresharks.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[tcpdump](tcpdump.html)|[nettools](nettools.html)|[wiresharks](wiresharks.html)|||
 
 [windows](windows.html)  
 [vmware](vmware.html)
 
 ###Hardware
 
-1. [uefi&logacy](uefi.html)
-2. [ipmi](ipmi.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[uefi&logacy](uefi.html)|[ipmi](ipmi.html)||||
 
 ###vpn
 
-1. [shadowsocks](ss.html)
-2. [openvpn](openvpn.html)
+|:-    |:-    |:-    |:-    |:-    |
+|[shadowsocks](ss.html)|[openvpn](openvpn.html)||||
 
 
 [Link](url) and 
@@ -86,6 +73,6 @@
 Commands
 ```
 hello
-```
+、、、
 
-```
+
