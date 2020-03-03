@@ -4,7 +4,7 @@
 #github is simple&clean,to save something useful.just like linux,rs.
 
 
-### linux  centos
+### linux
 
 |:-    |:-    |:-    |:-    |
 |[shell](shell.html)|[vsftpd](centosyum.html)|[ntp](ntp.html)|[iptables](iptables.html)|
