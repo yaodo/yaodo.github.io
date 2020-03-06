@@ -38,7 +38,7 @@
 |[nagios](nagios.html)|[zabbix](zabbix.html)|[elk](elk.html)||
 
 
-### Programming language
+### ide editor
 
 |:-    |:-    |:-    |:-    |
 |[JavaEclipse](java.html)||||
@@ -57,7 +57,7 @@
 [windows](windows.html)  
 [vmware](vmware.html)
 
-### Hardware
+### hardware
 
 |:-    |:-    |:-    |:-    |
 |[uefilegacy](uefi.html)|[ipmi](ipmi.html)|||
