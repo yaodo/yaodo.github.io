@@ -1,7 +1,7 @@
 
-### Cloud Note,Hi!
+### Cloud Note,Hi
 
-#github is simple&clean,to save something useful.just like linux,rs.
+#github is simple&clean,to save something useful.linux,rs.
 
 
 ### Cloud docker
