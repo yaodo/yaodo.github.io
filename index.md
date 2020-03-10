@@ -10,13 +10,13 @@
 |[k8scon](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
 |[ceph](ceph.html)||||
 
-###  server HA
+###  server HA 
 
 |:-    |:-    |:-    |:-    |
 |[mysql MS](mysql.html)|[nginx](nginx.html)|[Tomacat](tomcat.html)| [oracle11g2](oracle11g2.html)|
 |[keepalived](keepalived.html)|[hb&ka](ha.html)|||
 
-### linux
+### linux config
 
 |:-    |:-    |:-    |:-    |
 |[shell](shell.html)|[vsftpd](yum.html)|[ntp](ntp.html)|[iptables](iptables.html)|
@@ -25,7 +25,7 @@
 
 
 
-### RS
+### RS config demo
 
 |:-    |:-    |:-    |:-    |
 |[cisco](cisco1.html)|[jupiter](jupiter.html)|[huawei](huawei.html)|[h3c](h3c1.html)|
