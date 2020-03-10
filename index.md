@@ -10,7 +10,7 @@
 |[k8scon](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
 |[ceph](ceph.html)||||
 
-### HA server Balance
+###  server HA
 
 |:-    |:-    |:-    |:-    |
 |[mysql MS](mysql.html)|[nginx](nginx.html)|[Tomacat](tomcat.html)| [oracle11g2](oracle11g2.html)|
@@ -21,11 +21,11 @@
 |:-    |:-    |:-    |:-    |
 |[shell](shell.html)|[vsftpd](yum.html)|[ntp](ntp.html)|[iptables](iptables.html)|
 |[iptables1](iptables1.html)|[binddns](dns.html)|[openssl8](opensslssh.html)|[debian](debian1.html)|
-|[git](gituse.html)|[7firewalld](firewalld.html)|||
+|[git](gituse.html)|[7firewalld](firewalld.html)|[cobbler](cobbler.html)||
 
 
 
-### R&S
+### RS
 
 |:-    |:-    |:-    |:-    |
 |[cisco](cisco1.html)|[jupiter](jupiter.html)|[huawei](huawei.html)|[h3c](h3c1.html)|
@@ -43,11 +43,10 @@
 |:-    |:-    |:-    |:-    |
 |[JavaEclipse](java.html)||||
 
-### remote maintain
+### remote ssh
 
 |:-    |:-    |:-    |:-    |
-|[ssh](ssh.html)|[cobbler](cobbler.html)|[fabric](fabric.html)|[puppet](puppet.html)|
-|[ansible](ansible.html)||||
+|[ssh](ssh.html)|[fabric](fabric.html)|[puppet](puppet.html)|[ansible](ansible.html)|
 
 ### troubleshooting
 
