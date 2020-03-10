@@ -19,9 +19,9 @@
 ### linux
 
 |:-    |:-    |:-    |:-    |
-|[shell](shell.html)|[vsftpd](centosyum.html)|[ntp](ntp.html)|[iptables](iptables.html)|
+|[shell](shell.html)|[vsftpd](yum.html)|[ntp](ntp.html)|[iptables](iptables.html)|
 |[iptables1](iptables1.html)|[binddns](dns.html)|[openssl8](opensslssh.html)|[debian](debian1.html)|
-|[git hub](gituse.html)|[7firewalld](firewalld.html)|||
+|[git](gituse.html)|[7firewalld](firewalld.html)|||
 
 
 
