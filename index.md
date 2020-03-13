@@ -4,13 +4,13 @@
 #github is simple&clean,to save something useful.linux,rs.
 
 
-### Cloud docker
+### Cloud 
 
 |:-    |:-    |:-    |:-    |
 |[k8scon](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
-|[ceph](ceph.html)||||
 
-###  server HA 
+
+###  server 
 
 |:-    |:-    |:-    |:-    |
 |[mysql MS](mysql.html)|[nginx](nginx.html)|[Tomacat](tomcat.html)| [oracle11g2](oracle11g2.html)|
