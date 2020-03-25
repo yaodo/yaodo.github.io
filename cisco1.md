@@ -85,3 +85,4 @@ interface type/number	   进入接口
    standby group-number  track	   配置端口跟踪
    ip nat inside source  static	   配置静态地址转换
 ```
+
