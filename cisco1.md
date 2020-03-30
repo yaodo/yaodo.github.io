@@ -2,7 +2,7 @@
 ![Image](./images/ciscoh3c2.png)
 
 ## cisco config
-查看Cisco交换机端口mac
+mac
 ```
 SW4#ping 10.1.1.5
 Sending 5, 100-byte ICMP Echoes to 10.1.1.5, timeout is 2 seconds:
