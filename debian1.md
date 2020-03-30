@@ -1,4 +1,4 @@
-## debian install & config
+### debian install & config
 
 
 1. 下载第1张dvd安装，采用xfce桌面，修改apt为网络源
