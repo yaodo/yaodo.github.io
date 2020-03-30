@@ -1,7 +1,7 @@
 
 ### Cloud Note,Hi
 
-#github is simple&clean,to save something useful.linux,rs.
+###To save something useful.linux,rs.
 
 
 ### Cloud 
