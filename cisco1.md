@@ -2,7 +2,7 @@
 ![Image](./images/ciscoh3c2.png)
 
 ## cisco config
-mac
+show mac
 ```
 SW4#ping 10.1.1.5
 Sending 5, 100-byte ICMP Echoes to 10.1.1.5, timeout is 2 seconds:
