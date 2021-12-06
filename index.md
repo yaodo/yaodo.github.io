@@ -6,13 +6,13 @@
 
 ### Cloud 
 |:-    |:-    |:-    |:-    |
-|[k8scon](conjure-up.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
+|[k8scon](conjure-up.html)| [openstack](openstack.html)|[hadoop](hadoop.html)||
 ### linux config
 
 |:-    |:-    |:-    |:-    |
 |[shell](linux/shell.html)|[vsftpd](linux/yum.html)|[ntp](linux/ntp.html)|[iptables](linux/iptables.html)|
 |[iptables1](linux/iptables1.html)|[openssl8](linux/opensslssh.html)|[debian](linux/debian1.html)|
-|[7firewalld](linux/firewalld.html)|[cobbler](linux/cobbler.html)||
+|[7firewalld](linux/firewalld.html)|
 
 
 
