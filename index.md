@@ -5,6 +5,7 @@
 ###python
 
 ### Cloud 
+
 |:-    |:-    |:-    |:-    |
 |[k8scon](conjure-up.html)| [openstack](openstack.html)|[hadoop](hadoop.html)||
 ### linux config
@@ -16,6 +17,7 @@
 
 
 ### Router Switch
+
 |:-    |:-    |:-    |:-    |
 |[cisco](net/cisco1.html)|[jupiter](net/jupiter.html)|[huawei](net/huawei.html)|[h3c](net/h3c1.html)|
 |[gns3](net/gns.html)||||
