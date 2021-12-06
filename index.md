@@ -5,27 +5,21 @@
 ###python
 
 ### Cloud 
-
 |:-    |:-    |:-    |:-    |
-|[k8scon](conjure-up.html)|[microk8s](microk8s.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
-
-
-
-
+|[k8scon](conjure-up.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|
 ### linux config
 
 |:-    |:-    |:-    |:-    |
-|[shell](linux/shell.html)|[vsftpd](yum.html)|[ntp](ntp.html)|[iptables](iptables.html)|
-|[iptables1](iptables1.html)|[openssl8](opensslssh.html)|[debian](debian1.html)|
-|[7firewalld](firewalld.html)|[cobbler](cobbler.html)||
+|[shell](linux/shell.html)|[vsftpd](linux/yum.html)|[ntp](linux/ntp.html)|[iptables](linux/iptables.html)|
+|[iptables1](linux/iptables1.html)|[openssl8](linux/opensslssh.html)|[debian](linux/debian1.html)|
+|[7firewalld](linux/firewalld.html)|[cobbler](linux/cobbler.html)||
 
 
 
-### RS config demo
-
+### Router Switch
 |:-    |:-    |:-    |:-    |
-|[cisco](cisco1.html)|[jupiter](jupiter.html)|[huawei](huawei.html)|[h3c](h3c1.html)|
-|[gns3](gns.html)||||
+|[cisco](net/cisco1.html)|[jupiter](net/jupiter.html)|[huawei](net/huawei.html)|[h3c](net/h3c1.html)|
+|[gns3](net/gns.html)||||
 
 ### remote ssh
 
@@ -35,15 +29,8 @@
 ### troubleshooting
 
 |:-    |:-    |:-    |:-    |
-|[tcpdump](tcpdump.html)|[nettools](nettools.html)|[wiresharks](wiresharks.html)||
+|[tcpdump](linux/tcpdump.html)|[nettools](linux/nettools.html)|[wiresharks](linux/wiresharks.html)||
 
-[windows](windows.html)  
-[vmware](vmware.html)
-
-### hardware
-
-|:-    |:-    |:-    |:-    |
-|[uefilegacy](uefi.html)|[ipmi](ipmi.html)|||
 
 ### vpn
 
