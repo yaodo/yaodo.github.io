@@ -4,10 +4,13 @@
 ###To save something useful.linux,rs.python program 
 ###python
 | [bdspider](bdspider.py)|
+
 ### Cloud 
 
 |:-    |:-    |:-    |:-    |
-|[k8scon](conjure-up.html)| [openstack](openstack.html)|[hadoop](hadoop.html)||
+|[k8scon](conjure-up.html)| [openstack](openstack.html)|[hadoop](hadoop.html)|[ssh](ssh.html)|
+|[fabric](fabric.html)|[puppet](puppet.html)|[ansible](ansible.html)||
+
 ### linux config
 
 |:-    |:-    |:-    |:-    |
@@ -18,23 +21,13 @@
 
 |:-    |:-    |:-    |:-    |
 |[cisco](net/cisco1.html)|[jupiter](net/jupiter.html)|[huawei](net/huawei.html)|[h3c](net/h3c1.html)|
-|[gns3](net/gns.html)||||
+|[gns3](net/gns.html)|[ss](ss.html)|[openvpn](openvpn.html)||
 
-### remote ssh CI CD
-
-|:-    |:-    |:-    |:-    |
-|[ssh](ssh.html)|[fabric](fabric.html)|[puppet](puppet.html)|[ansible](ansible.html)|
 
 ### troubleshooting
 
 |:-    |:-    |:-    |:-    |
 |[tcpdump](linux/tcpdump.html)|[nettools](linux/nettools.html)|[wiresharks](linux/wiresharks.html)||
-
-
-### vpn
-
-|:-    |:-    |:-    |:-    |
-|[ss](ss.html)|[openvpn](openvpn.html)|||
 
 
 [Link](url) and 
