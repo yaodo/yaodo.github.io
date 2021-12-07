@@ -36,7 +36,7 @@
 ### vpn
 
 |:-    |:-    |:-    |:-    |
-|[shadowsocks](ss.html)|[openvpn](openvpn.html)|||
+|[ss](ss.html)|[openvpn](openvpn.html)|||
 
 
 [Link](url) and 
