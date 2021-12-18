@@ -4,7 +4,7 @@
 ###To save something useful.linux,rs.python program 
 ###python
 | [bdspider](bdspider.py)|
-
+大数据bigdata/cloud
 ### Cloud 
 
 |:-    |:-    |:-    |:-    |
@@ -26,8 +26,10 @@
 
 ### troubleshooting
 
-|:-    |:-    |:-    |:-    |
-|[tcpdump](linux/tcpdump.html)|[nettools](linux/nettools.html)|[wiresharks](linux/wiresharks.html)||
+
+[tcpdump](linux/tcpdump.html)
+[nettools](linux/nettools.html)
+[wiresharks](linux/wiresharks.html)
 
 
 [Link](url) and 
