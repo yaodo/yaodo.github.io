@@ -1,36 +1,54 @@
-## Welcome to GitHub Pages
+### Cloud Note,Hi
 
-You can use the [editor on GitHub](https://github.com/yaodo/master/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###To save something useful.linux,rs.python program 
+###python
+| [bdspider](bdspider.py)|
+大数据bigdata/cloud
+### Cloud 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[k8scon](conjure-up.html)
+[openstack](openstack.html)
+[hadoop](hadoop.html)
+[ssh](ssh.html)
+[fabric](fabric.html)
+[puppet](puppet.html)
+[ansible](ansible.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### linux config
 
-```markdown
-Syntax highlighted code block
+[shell](linux/shell.html)
+[vsftpd](linux/yum.html)
+[ntp](linux/ntp.html)
+[iptables](linux/iptables.html)
+[iptables1](linux/iptables1.html)
+[openssl8](linux/opensslssh.html)
+[debian](linux/debian1.html)
+[7firewalld](linux/firewalld.html)
 
-# Header 1
-## Header 2
-### Header 3
+### Router Switch
 
-- Bulleted
-- List
+[cisco](net/cisco1.html)
+[jupiter](net/jupiter.html)
+[huawei](net/huawei.html)
+[h3c](net/h3c1.html)
+|[gns3](net/gns.html)
+[ss](ss.html)
+[openvpn](openvpn.html)
 
-1. Numbered
-2. List
+### troubleshooting
 
-**Bold** and _Italic_ and `Code` text
+[tcpdump](linux/tcpdump.html)
+[nettools](linux/nettools.html)
+[wiresharks](linux/wiresharks.html)
 
-[Link](url) and ![Image](src)
+
+[Link](url) and 
+
+```
+    ![Image](./images/debian.png)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaodo/master/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
