@@ -41,6 +41,9 @@
 [tcpdump](linux/tcpdump.html)
 [nettools](linux/nettools.html)
 [wiresharks](linux/wiresharks.html)
+### go
+[go](linux/go.html)
+
 ### 科学
 [trogango](linux/trogango.html)
 
