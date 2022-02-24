@@ -69,3 +69,55 @@ chmod +x tcp.sh
 
 注意事项：如果你的 Trojan-Go 开启了 CDN，那么暂时是不支持手机端客户端使用的，只能在Windows、MacOS和Linux上面使用。
 
+multiv2ray搭建
+安装命令
+source <(curl -sL https://multi.netlify.app/v2ray.sh) --zh
+升级命令(保留配置文件更新)
+source <(curl -sL https://multi.netlify.app/v2ray.sh) -k
+卸载命令
+source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
+命令行参数
+v2ray/xray [-h|help] [options]
+    -h, help             查看帮助
+    -v, version          查看版本号
+    start                启动 V2Ray
+    stop                 停止 V2Ray
+    restart              重启 V2Ray
+    status               查看 V2Ray 运行状态
+    new                  重建新的v2ray json配置文件
+    update               更新 V2Ray 到最新Release版本
+    update [version]     更新 V2Ray 到指定版本
+    update.sh            更新 multi-v2ray 到最新版本
+    add                  新增端口组
+    add [protocol]       新增一种协议的组, 端口随机, 如 v2ray add utp 为新增utp协议
+    del                  删除端口组
+    info                 查看配置
+    port                 修改端口
+    tls                  修改tls
+    tfo                  修改tcpFastOpen
+    stream               修改传输协议
+    cdn                  走cdn
+    stats                v2ray流量统计
+    iptables             iptables流量统计
+    clean                清理日志
+    log                  查看日志
+    rm                   卸载core
+Docker运行
+默认创建mkcp + 随机一种伪装头配置文件(如果使用xray则换成镜像jrohy/xray)：
+
+docker run -d --name v2ray --privileged --restart always --network host jrohy/v2ray
+自定义v2ray配置文件:
+
+docker run -d --name v2ray --privileged -v /path/config.json:/etc/v2ray/config.json --restart always --network host jrohy/v2ray
+查看v2ray配置:
+
+docker exec v2ray bash -c "v2ray info"
+warning: 如果用centos，需要先关闭防火墙
+
+systemctl stop firewalld.service
+systemctl disable firewalld.service
+建议
+安装完v2ray后强烈建议开启BBR等加速: Linux-NetSpeed
+使用Trojan和VLESS协议建议自行安装个nginx, 能让v2ray顺利Fallback到默认的80端口
+
+https://github.com/mack-a/v2ray-agent
