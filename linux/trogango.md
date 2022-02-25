@@ -69,12 +69,17 @@ chmod +x tcp.sh
 
 注意事项：如果你的 Trojan-Go 开启了 CDN，那么暂时是不支持手机端客户端使用的，只能在Windows、MacOS和Linux上面使用。
 
+
+
+
 multiv2ray搭建
 安装命令
 source <(curl -sL https://multi.netlify.app/v2ray.sh) --zh
 升级命令(保留配置文件更新)
+
 source <(curl -sL https://multi.netlify.app/v2ray.sh) -k
 卸载命令
+
 source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 命令行参数
 v2ray/xray [-h|help] [options]
