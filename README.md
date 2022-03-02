@@ -36,6 +36,9 @@
 [ss](ss.html)
 [openvpn](openvpn.html)
 
+###app
+[wordpress](linux/wp.html)
+
 ### troubleshooting
 
 [tcpdump](linux/tcpdump.html)
