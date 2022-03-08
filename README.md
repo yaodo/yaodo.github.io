@@ -47,7 +47,7 @@
 ### go
 [go](linux/go.html)
 
-### 科学
+### science
 [trogango](linux/trogango.html)
 
 ### 
@@ -55,11 +55,4 @@
 [vultr云主机提供商优惠码提供](https://www.vultr.com/?ref=9064803-8H)
 [Link](url) and 
 
-```
-    ![Image](./images/debian.png)
-```
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
