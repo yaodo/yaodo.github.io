@@ -1,10 +1,10 @@
 ### Cloud Note,Hi
 
 ###To save something useful.linux,rs.python program 
-###python
+####python
 | [bdspider](bdspider.py)|
 大数据bigdata/cloud
-### Cloud 
+#### Cloud 
 
 
 [k8scon](conjure-up.html)
@@ -15,7 +15,7 @@
 [puppet](puppet.html)
 [ansible](ansible.html)
 
-### linux config
+#### linux config
 
 [shell](linux/shell.html)
 [vsftpd](linux/yum.html)
@@ -26,7 +26,7 @@
 [debian](linux/debian1.html)
 [7firewalld](linux/firewalld.html)
 
-### Router Switch
+#### Router Switch
 
 [cisco](net/cisco1.html)
 [jupiter](net/jupiter.html)
@@ -36,21 +36,21 @@
 [ss](ss.html)
 [openvpn](openvpn.html)
 
-###app
+####app
 [wordpress](linux/wp.html)
 
-### troubleshooting
+#### troubleshooting
 
 [tcpdump](linux/tcpdump.html)
 [nettools](linux/nettools.html)
 [wiresharks](linux/wiresharks.html)
-### go
+#### go
 [go](linux/go.html)
 
-### science
+#### science
 [trogango](linux/trogango.html)
 
-### 
+#### 
 [oraclecloud](linux/oracle.md)
 [vultr云主机提供商优惠码提供](https://www.vultr.com/?ref=9064803-8H)
 [Link](url) and 
@@ -99,4 +99,4 @@ Header: Access-Control-Allow-Origin=*
 
 Header: Referrer-Policy=origin-when-cross-origin, strict-origin-when-cross-origin
 
-* [Unstar this repository?](#unstar-this-repository)
+
