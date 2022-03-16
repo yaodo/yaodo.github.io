@@ -1,11 +1,11 @@
-### Cloud Note,Hi
-[1.python](#python)
-[2.cloud](#cloud)
-#### To save something useful.linux,rs.python program 
-#### python
+# Cloud Note,Hi
+[1.python](##python)
+[2.cloud](##cloud)
+## To save something useful.linux,rs.python program 
+## python
 | [bdspider](bdspider.py)|
 大数据bigdata/cloud
-#### Cloud 
+## Cloud 
 
 
 [k8scon](conjure-up.html)
@@ -27,7 +27,7 @@
 [debian](linux/debian1.html)
 [7firewalld](linux/firewalld.html)
 
-#### Router Switch
+## Router Switch
 
 [cisco](net/cisco1.html)
 [jupiter](net/jupiter.html)
@@ -37,21 +37,21 @@
 [ss](ss.html)
 [openvpn](openvpn.html)
 
-#### app
+## app
 [wordpress](linux/wp.html)
 
-#### troubleshooting
+## troubleshooting
 
 [tcpdump](linux/tcpdump.html)
 [nettools](linux/nettools.html)
 [wiresharks](linux/wiresharks.html)
-#### go
+## go
 [go](linux/go.html)
 
-#### science
+## science
 [trogango](linux/trogango.html)
 
-#### 
+## 
 [oraclecloud](linux/oracle.md)
 [vultr云主机提供商优惠码提供](https://www.vultr.com/?ref=9064803-8H)
 [Link](url) and 
