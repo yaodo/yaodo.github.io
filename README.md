@@ -55,6 +55,7 @@
 #### [trogango](linux/trogango.html)
 #### [ss](ss.html)
 #### [openvpn](openvpn.html)
+#### [github图片不显示](giterror.html)
 
 ## 免费vps
 #### [oraclecloud](linux/oracle.md)
