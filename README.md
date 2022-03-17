@@ -5,12 +5,14 @@
 ## python
 | [bdspider](bdspider.py)|
 大数据bigdata/cloud
+
 ## Cloud 
 
 
 [k8scon](conjure-up.html)
 [openstack](openstack.html)
 [hadoop](hadoop.html)
+[win10k8s](wink8s.html)
 [ssh](ssh.html)
 [fabric](fabric.html)
 [puppet](puppet.html)
@@ -38,7 +40,7 @@
 [openvpn](openvpn.html)
 
 ## app
-[wordpress](linux/wp.html)
+[lnmp+wordpress](linux/wp.html)
 
 ## troubleshooting
 
