@@ -1,19 +1,20 @@
-# Cloud Note,Hi
+## Cloud Note,Hi
 [1.python](##python)
 [2.cloud](##cloud)
-## To save something useful.linux,rs.python program 
-## python
+``` To save something useful.linux,rs.python program 
+
+## 1.python
 | [bdspider](bdspider.py)|
 大数据bigdata/cloud
 
-## Cloud 
+## 2.Cloud 
 
 
 [k8scon](conjure-up.html)
 [openstack](openstack.html)
 [hadoop](hadoop.html)
 
-### linux config
+### 3.linux config
 
 #### [shell](linux/shell.html)
 #### [vsftpd](linux/yum.html)
@@ -24,11 +25,11 @@
 #### [debian](linux/debian1.html)
 #### [7firewalld](linux/firewalld.html)
 
-### ubuntu debian
-### windows10
+### 4.ubuntu debian
+### 5.windows
 #### [win10k8s](wink8s.html)
 
-### Tools troubleshooting
+### 6.Tools troubleshooting
 #### [ssh](ssh.html)
 #### [fabric](fabric.html)
 #### [puppet](puppet.html)
@@ -37,7 +38,7 @@
 #### [nettools](linux/nettools.html)
 #### [wiresharks](linux/wiresharks.html)
 
-### Router Switch
+### 7.Router Switch
 #### [cisco](net/cisco1.html)
 #### [jupiter](net/jupiter.html)
 #### [huawei](net/huawei.html)
@@ -45,23 +46,20 @@
 #### |[gns3](net/gns.html)
 
 
-## appserver
+## 8.appserver
 #### [lnmpwordpress](linux/wp.html)
 
-## go
+## 9.go
 #### [go](linux/go.html)
 
-## science
+## 10.science
 #### [trogango](linux/trogango.html)
 #### [ss](ss.html)
 #### [openvpn](openvpn.html)
 #### [github图片不显示](giterror.html)
 
-## 免费vps
+## 11.free vps resource
 #### [oraclecloud](linux/oracle.md)
-#### [vultr云主机提供商优惠码提供](https://www.vultr.com/?ref=9064803-8H)
+#### [vultr云主机优惠码提供](https://www.vultr.com/?ref=9064803-8H)
 #### [萤光云](linux/yingguang.md)
-
-
-
 
