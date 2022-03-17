@@ -4,7 +4,7 @@
 
 本期给大家分享一下萤光云香港VPS测评报告，主要分享萤光云香港VPS的性能、带宽、丢包等，包括详细测评数据及测评总结建议，有需要的朋友可以关注一下。
 ###
-![yg1](https://github.com/yaodo/yaodo.github.io/blob/master/images/yg1.png)
+![yg1](../images/yg1.png)
 
 ###
 荧光云的VPS云服务器怎么样，本站自行测试了一台萤光云香港地区的VPS云服务器。
