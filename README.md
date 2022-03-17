@@ -40,7 +40,7 @@
 [openvpn](openvpn.html)
 
 ## app
-[lnmp+wordpress](linux/wp.html)
+[lnmpwordpress](linux/wp.html)
 
 ## troubleshooting
 
