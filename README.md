@@ -59,6 +59,7 @@
 ## 
 [oraclecloud](linux/oracle.md)
 [vultr云主机提供商优惠码提供](https://www.vultr.com/?ref=9064803-8H)
+[萤光云](linux/yingguang.md)
 
 
 
