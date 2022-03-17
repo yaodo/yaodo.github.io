@@ -41,9 +41,9 @@
 
 ### 5、不同运营商路由回程测试
 ![](https://sway.office.com/s/tMptl8VlPh7KMtc9/images/ttxJSQAD7cQdoN)
-
+```
 wget https://cdn.ipip.net/17mon/besttrace4linux.zip && unzip besttrace4linux.zip && chmod +x besttrace
-
+```
 ./besttrace 113.59.224.1 -g cn
 你也可以从VPS上跟踪全国其他地区的IP，查看一下路由信息，下面整理了全国有代表性的几个地区的IP。
 
