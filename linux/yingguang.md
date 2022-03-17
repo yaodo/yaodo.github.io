@@ -24,20 +24,22 @@
 注册后邀请朋友都可以打折哦
 
 2、vps基础硬件测速，上传下载测速
-
+![](https://sway.office.com/s/tMptl8VlPh7KMtc9/images/wiqFBN3HVXJWnU)
 
 
 3、benchmark I/O测试
-
+![](https://sway.office.com/s/tMptl8VlPh7KMtc9/images/ttxJSQAD7cQdoN)
 
 
 4、广州电信、上海电信测速
-
+![](https://sway.office.com/s/tMptl8VlPh7KMtc9/images/kFJ8gc5J9kaGF_)
+![](https://sway.office.com/s/tMptl8VlPh7KMtc9/images/uNadOueKc32k7H)
 
 
 
 
 5、不同运营商路由回程测试
+![](https://sway.office.com/s/tMptl8VlPh7KMtc9/images/ttxJSQAD7cQdoN)
 wget https://cdn.ipip.net/17mon/besttrace4linux.zip && unzip besttrace4linux.zip && chmod +x besttrace
 
 ./besttrace 113.59.224.1 -g cn
