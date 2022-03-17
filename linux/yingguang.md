@@ -3,7 +3,7 @@
 1、萤光云官网：点击直达
 
 本期给大家分享一下萤光云香港VPS测评报告，主要分享萤光云香港VPS的性能、带宽、丢包等，包括详细测评数据及测评总结建议，有需要的朋友可以关注一下。
-![官网](https://github.com/yaodo/yaodo.github.io/blob/master/images/yg1.png "web")
+![yg1](https://github.com/yaodo/yaodo.github.io/blob/master/images/yg1.png)
 
 
 荧光云的VPS云服务器怎么样，本站自行测试了一台萤光云香港地区的VPS云服务器。
@@ -37,9 +37,6 @@
 
 
 5、不同运营商路由回程测试
-
-
-
 wget https://cdn.ipip.net/17mon/besttrace4linux.zip && unzip besttrace4linux.zip && chmod +x besttrace
 
 ./besttrace 113.59.224.1 -g cn
