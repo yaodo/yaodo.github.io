@@ -1,14 +1,14 @@
-## dockerforwin10 UI
-![](https://gitee.com/yaodo/img/raw/master/docker0.PNG)
+### 1.dockerforwin10 UI
+![](https://sway.office.com/s/nhpjvBXJsAKYNFOi/images/LcRyHPaZl2uiXg)
 
-## docker
-![](https://gitee.com/yaodo/img/raw/master/docker01.PNG)
+### 2.docker添加内地更新源
+![](https://sway.office.com/s/nhpjvBXJsAKYNFOi/images/95UP81nG64G2Jw)
 
-## docker
-![](https://gitee.com/yaodo/img/raw/master/docker02.PNG)
+### 3.docker运行k8s(必须科学上网)
+![](https://sway.office.com/s/nhpjvBXJsAKYNFOi/images/HGClHYPupzhXLd)
 
-## docker
-![](https://gitee.com/yaodo/img/raw/master/docker1.PNG)
+### 4.docker version
+![](https://sway.office.com/s/nhpjvBXJsAKYNFOi/images/DBAMHJvzFsfoY4)
 
-## k8s
-![](https://gitee.com/yaodo/img/raw/master/docker2.png)
+### 5.docker run hello-world
+![](https://sway.office.com/s/nhpjvBXJsAKYNFOi/images/n02XGNvXAKgqVK)
