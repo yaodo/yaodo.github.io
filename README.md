@@ -17,6 +17,7 @@
 
 ## 3.appserver
 #### [lnmpwordpress](linux/wp.html)
+#### [picgo+gitee图床提升blog写作效率](picgo.html)
 
 ## 4.go
 #### [go](linux/go.html)
@@ -63,6 +64,6 @@
 
 ## 10.free vps resource
 #### [oraclecloud](linux/oracle.md)
-#### [vultr云主机优惠码提供](https://www.vultr.com/?ref=9064803-8H)
+#### [vultr云主机](https://www.vultr.com/?ref=9064803-8H)
 #### [萤光云](linux/yingguang.md)
 
