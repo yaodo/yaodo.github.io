@@ -1,4 +1,4 @@
-##picgo+gitee图床，提升markdown blogger效率
+## picgo+gitee图床，提升markdown blogger效率
 
 
 ## gitee注册配置
