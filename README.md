@@ -6,10 +6,12 @@
 
 
 ## 1.Cloud 
-### docker docker-compose k8s Minikube k3s
-[k8scon](conjure-up.html)
-[openstack](openstack.html)
-[hadoop](hadoop.html)
+### docker docker-compose 
+### [openstack](openstack.html)
+### [hadoop](hadoop.html)
+### Minikube k3s k8s
+### [k8scon](conjure-up.html)
+
 
 
 #### [7firewalld](linux/firewalld.html)
