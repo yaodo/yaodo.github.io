@@ -1,10 +1,14 @@
 ## dockerforwin10 UI
-![](https://raw.githubusercontent.com/yaodo/img/Public/docker0321.PNG)
+![](https://gitee.com/yaodo/img/raw/master/docker0.PNG)
+
 ## docker
-![](https://raw.githubusercontent.com/yaodo/img/Public/docker01321.PNG)
+![](https://gitee.com/yaodo/img/raw/master/docker01.PNG)
+
 ## docker
-![](https://raw.githubusercontent.com/yaodo/img/Public/docker02321.PNG)
+![](https://gitee.com/yaodo/img/raw/master/docker02.PNG)
+
 ## docker
-![](https://raw.githubusercontent.com/yaodo/img/Public/docker03321.PNG)
+![](https://gitee.com/yaodo/img/raw/master/docker1.PNG)
+
 ## k8s
-![](https://raw.githubusercontent.com/yaodo/img/Public/docker04321.png)
+![](https://gitee.com/yaodo/img/raw/master/docker2.png)
