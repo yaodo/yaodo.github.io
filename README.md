@@ -61,6 +61,7 @@
 #### [ss](ss.html)
 #### [openvpn](openvpn.html)
 #### [github图片不显示](giterror.html)
+#### [edge](edge.html)
 
 ## 10.free vps resource
 #### [oraclecloud](linux/oracle.md)
