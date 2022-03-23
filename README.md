@@ -64,9 +64,9 @@
 #### [edge](edge.html)
 
 ## 10.free vps resource
-#### [kvm&openvz](kvm.md)
-#### [oraclecloud](linux/oracle.md)
+#### [kvm&openvz](kvm.html)
+#### [oraclecloud](linux/oracle.html)
 #### [vultr云主机](https://www.vultr.com/?ref=9064803-8H)
-#### [萤光云](linux/yingguang.md)
-#### [chrome](chrome.md)
+#### [萤光云](linux/yingguang.html)
+#### [chrome插件英雄榜](chrome.html)
 
