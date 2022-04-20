@@ -15,34 +15,26 @@
 
 ## 2.ubuntu debian
 
-## 3.appserver
-#### [lnmpwordpress](linux/wp.html)
-#### [picgo+gitee图床提升blog写作效率](picgo.html)
 
-## 4.go
+## 3.go
 #### [go](linux/go.html)
 
-## 5.python
+## 4.python
 | [bdspider](bdspider.py)|
 大数据bigdata/cloud
 
-## 6.Tools troubleshooting
-#### [ssh](ssh.html)
-#### [fabric](fabric.html)
-#### [puppet](puppet.html)
-#### [ansible](ansible.html)
-#### [tcpdump](linux/tcpdump.html)
-#### [nettools](linux/nettools.html)
-#### [wiresharks](linux/wiresharks.html)
+## 5.appserver
+#### [lnmpwordpress](linux/wp.html)
+#### [picgo+gitee图床提升blog写作效率](picgo.html)
 
-## 7.Router Switch
+## 6.Router Switch
 #### [cisco](net/cisco1.html)
 #### [jupiter](net/jupiter.html)
 #### [huawei](net/huawei.html)
 #### [h3c](net/h3c1.html)
 #### |[gns3](net/gns.html)
 
-## 8.linux config
+## 7.linux config
 
 #### [shell](linux/shell.html)
 #### [vsftpd](linux/yum.html)
@@ -51,19 +43,21 @@
 #### [iptables1](linux/iptables1.html)
 #### [openssl8](linux/opensslssh.html)
 #### [debian](linux/debian1.html)
+### Tools troubleshooting
+#### [ssh](ssh.html)
+#### [fabric](fabric.html)
+#### [puppet](puppet.html)
+#### [ansible](ansible.html)
+#### [tcpdump](linux/tcpdump.html)
+#### [nettools](linux/nettools.html)
+#### [wiresharks](linux/wiresharks.html)
 
-
-
-
-
-## 9.science
+## 8.free vps resource && science
 #### [trogango](linux/trogango.html)
 #### [ss](ss.html)
 #### [openvpn](openvpn.html)
 #### [github图片不显示](giterror.html)
 #### [edge](edge.html)
-
-## 10.free vps resource
 #### [kvm&openvz](kvm.html)
 #### [oraclecloud](linux/oracle.html)
 #### [vultr云主机](https://www.vultr.com/?ref=9064803-8H)
