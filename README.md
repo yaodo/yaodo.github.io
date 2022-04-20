@@ -1,8 +1,7 @@
 ## Cloud Note,Hi
-[1.python](##1.python)
-[2.cloud](##2.cloud)
-``` To save something useful.linux,rs.go python program 
-
+```
+To save something useful.linux,rs.go python program 
+```
 
 
 ## 1.Cloud 
