@@ -1,10 +1,10 @@
-## Cloud Note,Hi
+## Cloud Note,yaodo
 ```
-To save something useful.linux,rs.go python program 
+something useful.linux server,rs, python program 
 ```
 
 
-## 1.Cloud 
+## 1.Cloud Install 
 ### [ssh docker container](docker.html)
 ### [openstack](openstack.html)
 ### [hadoop](hadoop.html)
@@ -14,26 +14,27 @@ To save something useful.linux,rs.go python program
 
 ## 2.ubuntu debian
 
+## 3.log monitor
 
-## 3.go
+## 4.go
 #### [go](linux/go.html)
 
-## 4.python
+## 5.python
 | [bdspider](bdspider.py)|
-大数据bigdata/cloud
 
-## 5.appserver
+
+## 6.appserver
 #### [lnmpwordpress](linux/wp.html)
-#### [picgo+gitee图床提升blog写作效率](picgo.html)
+#### [picgo+giteepic](picgo.html)
 
-## 6.Router Switch
+## 7.Router Switch
 #### [cisco](net/cisco1.html)
 #### [jupiter](net/jupiter.html)
 #### [huawei](net/huawei.html)
 #### [h3c](net/h3c1.html)
 #### |[gns3](net/gns.html)
 
-## 7.linux config
+## 8.linux config
 
 #### [shell](linux/shell.html)
 #### [vsftpd](linux/yum.html)
@@ -51,7 +52,7 @@ To save something useful.linux,rs.go python program
 #### [nettools](linux/nettools.html)
 #### [wiresharks](linux/wiresharks.html)
 
-## 8.free vps resource && science
+## 9.free resource 
 #### [trogango](linux/trogango.html)
 #### [ss](ss.html)
 #### [openvpn](openvpn.html)
