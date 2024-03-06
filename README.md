@@ -1,40 +1,34 @@
 ## Cloud Note,yaodo
 ```
-something useful.linux server,rs, python program 
+something useful.linux server,rs, shell python
 ```
 
 
-## 1.Cloud Install 
+## 1.Cloud 
 ### [ssh docker container](docker.html)
-### [openstack](openstack.html)
-### [hadoop](hadoop.html)
 ### Minikube k3s k8s
 ### [k8scon](conjure-up.html)
 ### [win10k8s](wink8s.html)
 
-## 2.ubuntu debian
+## 2.log monitor
 
-## 3.log monitor
-
-## 4.go
+## 3.go python
 #### [go](linux/go.html)
-
-## 5.python
-| [bdspider](bdspider.py)|
+ [bdspider](bdspider.py)|
 
 
-## 6.appserver
+## 4.appserver
 #### [lnmpwordpress](linux/wp.html)
 #### [picgo+giteepic](picgo.html)
 
-## 7.Router Switch
+## 5.Router Switch
 #### [cisco](net/cisco1.html)
 #### [jupiter](net/jupiter.html)
 #### [huawei](net/huawei.html)
 #### [h3c](net/h3c1.html)
 #### |[gns3](net/gns.html)
 
-## 8.linux config
+## 6.centos install
 
 #### [shell](linux/shell.html)
 #### [vsftpd](linux/yum.html)
@@ -52,15 +46,13 @@ something useful.linux server,rs, python program
 #### [nettools](linux/nettools.html)
 #### [wiresharks](linux/wiresharks.html)
 
-## 9.free resource 
+## 7.tools 
 #### [trogango](linux/trogango.html)
 #### [ss](ss.html)
 #### [openvpn](openvpn.html)
-#### [github图片不显示](giterror.html)
 #### [edge](edge.html)
 #### [kvm&openvz](kvm.html)
 #### [oraclecloud](linux/oracle.html)
 #### [vultr云主机](https://www.vultr.com/?ref=9064803-8H)
-#### [萤光云](linux/yingguang.html)
 #### [chrome插件英雄榜](chrome.html)
 
